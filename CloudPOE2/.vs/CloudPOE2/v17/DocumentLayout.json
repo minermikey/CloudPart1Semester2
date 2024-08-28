@@ -1,0 +1,435 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Michael Singh\\source\\repos\\CloudPOE2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|c:\\users\\michael singh\\source\\repos\\cloudpoe2\\cloudpoe2\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|solutionrelative:cloudpoe2\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|c:\\users\\michael singh\\source\\repos\\cloudpoe2\\cloudpoe2\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|solutionrelative:cloudpoe2\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|c:\\users\\michael singh\\source\\repos\\cloudpoe2\\cloudpoe2\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|solutionrelative:cloudpoe2\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|c:\\users\\michael singh\\source\\repos\\cloudpoe2\\cloudpoe2\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|solutionrelative:cloudpoe2\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|c:\\users\\michael singh\\source\\repos\\cloudpoe2\\cloudpoe2\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|solutionrelative:cloudpoe2\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|c:\\users\\michael singh\\source\\repos\\cloudpoe2\\cloudpoe2\\views\\order\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|solutionrelative:cloudpoe2\\views\\order\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|c:\\users\\michael singh\\source\\repos\\cloudpoe2\\cloudpoe2\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|solutionrelative:cloudpoe2\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|c:\\users\\michael singh\\source\\repos\\cloudpoe2\\cloudpoe2\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|solutionrelative:cloudpoe2\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|c:\\users\\michael singh\\source\\repos\\cloudpoe2\\cloudpoe2\\views\\products\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|solutionrelative:cloudpoe2\\views\\products\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|c:\\users\\michael singh\\source\\repos\\cloudpoe2\\cloudpoe2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|solutionrelative:cloudpoe2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|c:\\users\\michael singh\\source\\repos\\cloudpoe2\\cloudpoe2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|solutionrelative:cloudpoe2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|c:\\users\\michael singh\\source\\repos\\cloudpoe2\\cloudpoe2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|solutionrelative:cloudpoe2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|c:\\users\\michael singh\\source\\repos\\cloudpoe2\\cloudpoe2\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|solutionrelative:cloudpoe2\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|c:\\users\\michael singh\\source\\repos\\cloudpoe2\\cloudpoe2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|solutionrelative:cloudpoe2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|c:\\users\\michael singh\\source\\repos\\cloudpoe2\\cloudpoe2\\views\\files\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|solutionrelative:cloudpoe2\\views\\files\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|c:\\users\\michael singh\\source\\repos\\cloudpoe2\\cloudpoe2\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|solutionrelative:cloudpoe2\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|c:\\users\\michael singh\\source\\repos\\cloudpoe2\\cloudpoe2\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|solutionrelative:cloudpoe2\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|c:\\users\\michael singh\\source\\repos\\cloudpoe2\\cloudpoe2\\services\\tablestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|solutionrelative:cloudpoe2\\services\\tablestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|c:\\users\\michael singh\\source\\repos\\cloudpoe2\\cloudpoe2\\services\\blobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|solutionrelative:cloudpoe2\\services\\blobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|c:\\users\\michael singh\\source\\repos\\cloudpoe2\\cloudpoe2\\services\\queueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|solutionrelative:cloudpoe2\\services\\queueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|c:\\users\\michael singh\\source\\repos\\cloudpoe2\\cloudpoe2\\services\\azurefileshareservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|solutionrelative:cloudpoe2\\services\\azurefileshareservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|c:\\users\\michael singh\\source\\repos\\cloudpoe2\\cloudpoe2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|solutionrelative:cloudpoe2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|c:\\users\\michael singh\\source\\repos\\cloudpoe2\\cloudpoe2\\models\\filemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|solutionrelative:cloudpoe2\\models\\filemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Michael Singh\\source\\repos\\CloudPOE2\\CloudPOE2\\Views\\Customers\\Index.cshtml",
+              "RelativeDocumentMoniker": "CloudPOE2\\Views\\Customers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Michael Singh\\source\\repos\\CloudPOE2\\CloudPOE2\\Views\\Customers\\Index.cshtml*",
+              "RelativeToolTip": "CloudPOE2\\Views\\Customers\\Index.cshtml*",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwBkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T21:07:27.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Michael Singh\\source\\repos\\CloudPOE2\\CloudPOE2\\Views\\Customers\\Create.cshtml",
+              "RelativeDocumentMoniker": "CloudPOE2\\Views\\Customers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Michael Singh\\source\\repos\\CloudPOE2\\CloudPOE2\\Views\\Customers\\Create.cshtml",
+              "RelativeToolTip": "CloudPOE2\\Views\\Customers\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T21:03:15.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Michael Singh\\source\\repos\\CloudPOE2\\CloudPOE2\\Views\\Order\\Register.cshtml",
+              "RelativeDocumentMoniker": "CloudPOE2\\Views\\Order\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Michael Singh\\source\\repos\\CloudPOE2\\CloudPOE2\\Views\\Order\\Register.cshtml",
+              "RelativeToolTip": "CloudPOE2\\Views\\Order\\Register.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAADAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T20:24:33.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Michael Singh\\source\\repos\\CloudPOE2\\CloudPOE2\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "CloudPOE2\\Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Michael Singh\\source\\repos\\CloudPOE2\\CloudPOE2\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "CloudPOE2\\Views\\Order\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T20:21:17.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Michael Singh\\source\\repos\\CloudPOE2\\CloudPOE2\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "CloudPOE2\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Michael Singh\\source\\repos\\CloudPOE2\\CloudPOE2\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "CloudPOE2\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAUwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T20:06:19.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\Michael Singh\\source\\repos\\CloudPOE2\\CloudPOE2\\Views\\Products\\AddProduct.cshtml",
+              "RelativeDocumentMoniker": "CloudPOE2\\Views\\Products\\AddProduct.cshtml",
+              "ToolTip": "C:\\Users\\Michael Singh\\source\\repos\\CloudPOE2\\CloudPOE2\\Views\\Products\\AddProduct.cshtml",
+              "RelativeToolTip": "CloudPOE2\\Views\\Products\\AddProduct.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T20:06:06.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TableStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\Michael Singh\\source\\repos\\CloudPOE2\\CloudPOE2\\Services\\TableStorageService.cs",
+              "RelativeDocumentMoniker": "CloudPOE2\\Services\\TableStorageService.cs",
+              "ToolTip": "C:\\Users\\Michael Singh\\source\\repos\\CloudPOE2\\CloudPOE2\\Services\\TableStorageService.cs",
+              "RelativeToolTip": "CloudPOE2\\Services\\TableStorageService.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAowI0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T19:37:13.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BlobService.cs",
+              "DocumentMoniker": "C:\\Users\\Michael Singh\\source\\repos\\CloudPOE2\\CloudPOE2\\Services\\BlobService.cs",
+              "RelativeDocumentMoniker": "CloudPOE2\\Services\\BlobService.cs",
+              "ToolTip": "C:\\Users\\Michael Singh\\source\\repos\\CloudPOE2\\CloudPOE2\\Services\\BlobService.cs",
+              "RelativeToolTip": "CloudPOE2\\Services\\BlobService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T19:35:33.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Michael Singh\\source\\repos\\CloudPOE2\\CloudPOE2\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "CloudPOE2\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Michael Singh\\source\\repos\\CloudPOE2\\CloudPOE2\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "CloudPOE2\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAIwFMAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T19:21:08.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FilesController.cs",
+              "DocumentMoniker": "C:\\Users\\Michael Singh\\source\\repos\\CloudPOE2\\CloudPOE2\\Controllers\\FilesController.cs",
+              "RelativeDocumentMoniker": "CloudPOE2\\Controllers\\FilesController.cs",
+              "ToolTip": "C:\\Users\\Michael Singh\\source\\repos\\CloudPOE2\\CloudPOE2\\Controllers\\FilesController.cs",
+              "RelativeToolTip": "CloudPOE2\\Controllers\\FilesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T19:18:19.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Michael Singh\\source\\repos\\CloudPOE2\\CloudPOE2\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "CloudPOE2\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Michael Singh\\source\\repos\\CloudPOE2\\CloudPOE2\\Models\\Product.cs",
+              "RelativeToolTip": "CloudPOE2\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T18:51:10.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Michael Singh\\source\\repos\\CloudPOE2\\CloudPOE2\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "CloudPOE2\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Michael Singh\\source\\repos\\CloudPOE2\\CloudPOE2\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "CloudPOE2\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAowCgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T19:09:19.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Michael Singh\\source\\repos\\CloudPOE2\\CloudPOE2\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "CloudPOE2\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Michael Singh\\source\\repos\\CloudPOE2\\CloudPOE2\\Models\\Customer.cs",
+              "RelativeToolTip": "CloudPOE2\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T18:54:56.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\Michael Singh\\source\\repos\\CloudPOE2\\CloudPOE2\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "CloudPOE2\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\Michael Singh\\source\\repos\\CloudPOE2\\CloudPOE2\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "CloudPOE2\\Controllers\\CustomersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T19:13:18.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Michael Singh\\source\\repos\\CloudPOE2\\CloudPOE2\\Views\\Files\\Index.cshtml",
+              "RelativeDocumentMoniker": "CloudPOE2\\Views\\Files\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Michael Singh\\source\\repos\\CloudPOE2\\CloudPOE2\\Views\\Files\\Index.cshtml",
+              "RelativeToolTip": "CloudPOE2\\Views\\Files\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T20:19:48.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Michael Singh\\source\\repos\\CloudPOE2\\CloudPOE2\\appsettings.json",
+              "RelativeDocumentMoniker": "CloudPOE2\\appsettings.json",
+              "ToolTip": "C:\\Users\\Michael Singh\\source\\repos\\CloudPOE2\\CloudPOE2\\appsettings.json",
+              "RelativeToolTip": "CloudPOE2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-28T20:37:37.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Michael Singh\\source\\repos\\CloudPOE2\\CloudPOE2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CloudPOE2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Michael Singh\\source\\repos\\CloudPOE2\\CloudPOE2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CloudPOE2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAC0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T20:44:43.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Michael Singh\\source\\repos\\CloudPOE2\\CloudPOE2\\Program.cs",
+              "RelativeDocumentMoniker": "CloudPOE2\\Program.cs",
+              "ToolTip": "C:\\Users\\Michael Singh\\source\\repos\\CloudPOE2\\CloudPOE2\\Program.cs",
+              "RelativeToolTip": "CloudPOE2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T20:38:07.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Michael Singh\\source\\repos\\CloudPOE2\\CloudPOE2\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "CloudPOE2\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Michael Singh\\source\\repos\\CloudPOE2\\CloudPOE2\\Models\\Order.cs",
+              "RelativeToolTip": "CloudPOE2\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T19:04:18.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "QueueService.cs",
+              "DocumentMoniker": "C:\\Users\\Michael Singh\\source\\repos\\CloudPOE2\\CloudPOE2\\Services\\QueueService.cs",
+              "RelativeDocumentMoniker": "CloudPOE2\\Services\\QueueService.cs",
+              "ToolTip": "C:\\Users\\Michael Singh\\source\\repos\\CloudPOE2\\CloudPOE2\\Services\\QueueService.cs",
+              "RelativeToolTip": "CloudPOE2\\Services\\QueueService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T19:36:42.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AzureFileShareService.cs",
+              "DocumentMoniker": "C:\\Users\\Michael Singh\\source\\repos\\CloudPOE2\\CloudPOE2\\Services\\AzureFileShareService.cs",
+              "RelativeDocumentMoniker": "CloudPOE2\\Services\\AzureFileShareService.cs",
+              "ToolTip": "C:\\Users\\Michael Singh\\source\\repos\\CloudPOE2\\CloudPOE2\\Services\\AzureFileShareService.cs",
+              "RelativeToolTip": "CloudPOE2\\Services\\AzureFileShareService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T19:30:09.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Michael Singh\\source\\repos\\CloudPOE2\\CloudPOE2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CloudPOE2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Michael Singh\\source\\repos\\CloudPOE2\\CloudPOE2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CloudPOE2\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T19:19:54.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FileModel.cs",
+              "DocumentMoniker": "C:\\Users\\Michael Singh\\source\\repos\\CloudPOE2\\CloudPOE2\\Models\\FileModel.cs",
+              "RelativeDocumentMoniker": "CloudPOE2\\Models\\FileModel.cs",
+              "ToolTip": "C:\\Users\\Michael Singh\\source\\repos\\CloudPOE2\\CloudPOE2\\Models\\FileModel.cs",
+              "RelativeToolTip": "CloudPOE2\\Models\\FileModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T19:00:26.168Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
