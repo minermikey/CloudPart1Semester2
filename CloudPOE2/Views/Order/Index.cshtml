@@ -1,30 +1,45 @@
 ﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+    For more information on enabling MVC for empty projects, visit
+    https://go.microsoft.com/fwlink/?LinkID=397860
 *@
-@{
-}
 
 @model IEnumerable<CloudPOE2.Models.Order>
 
-<a href="@Url.Action("Register", "Order")" class="btn btn-primary">Add New Order</a>
+<div class="container mt-5">
+    <h1 class="text-center mb-4">Order List</h1>
 
-<table class="table">
-    <thead>
-        <tr>
-            <th>Product ID</th>
-            <th>Product ID</th>
-            <th>Price</th>
-            <th>Date</th>
-        </tr>
-    </thead>
-    <tbody>
-        @foreach (var order in Model)
-        {
+    <div class="text-right mb-3">
+        <a href="@Url.Action("Register", "Order")" class="btn btn-success">
+            <i class="fas fa-plus-circle"></i> Add New Order
+        </a>
+    </div>
+
+    <table class="table table-hover table-bordered">
+        <thead class="thead-dark">
             <tr>
-                <td>@order.Customer_ID</td>
-                <td>@order.Product_ID</td>
-                 <td>@order.Order_Date</td>
+                <th scope="col">Customer ID</th>
+                <th scope="col">Product ID</th>
+                <th scope="col">Order Date</th>
             </tr>
-        }
-    </tbody>
-</table>
+        </thead>
+        <tbody>
+            @if (Model != null && Model.Any())
+            {
+                @foreach (var order in Model)
+                {
+                    <tr>
+                        <td>@order.Customer_ID</td>
+                        <td>@order.Product_ID</td>
+                        <td>@order.Order_Date.ToString("MM/dd/yyyy")</td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="3" class="text-center text-muted">No orders found.</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

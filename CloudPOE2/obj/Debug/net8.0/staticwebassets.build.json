@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "FYg7/bLTvbuF1W10iwR1alcN39FD8Hn+RY32/zawQqs=",
+  "Hash": "dTbHGrrLh6k3FaRQrJB5P9WIenK52Icr9fLrjPEL0eU=",
   "Source": "CloudPOE2",
   "BasePath": "_content/CloudPOE2",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Michael Singh\\source\\repos\\CloudPOE2\\CloudPOE2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CloudPOE2.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Michael Singh\\source\\repos\\CloudPOE2\\CloudPOE2\\wwwroot\\css\\bootstrap.min.css",
+      "SourceId": "CloudPOE2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Michael Singh\\source\\repos\\CloudPOE2\\CloudPOE2\\wwwroot\\",
+      "BasePath": "_content/CloudPOE2",
+      "RelativePath": "css/bootstrap.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
     },
     {
       "Identity": "C:\\Users\\Michael Singh\\source\\repos\\CloudPOE2\\CloudPOE2\\wwwroot\\css\\site.css",

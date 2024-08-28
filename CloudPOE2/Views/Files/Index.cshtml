@@ -1,47 +1,60 @@
 ﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+    For more information on enabling MVC for empty projects, visit
+    https://go.microsoft.com/fwlink/?LinkID=397860
 *@
-@{
-}
 
 @model List<CloudPOE2.Models.FileModel>
 
+<div class="container mt-5">
+    <h1 class="text-center">Uploaded Files</h1>
 
-<h1>Files</h1>
+    <!-- Display any messages -->
+    @if (TempData["Message"] != null)
+    {
+        <div class="alert alert-info text-center mt-3">
+            @TempData["Message"]
+        </div>
+    }
 
-<!-- Display any messages -->
-@if (TempData["Message"] != null)
-{
-    <div class="alert alert-info">
-        @TempData["Message"]
+    <!-- Upload form -->
+    <div class="card mt-4">
+        <div class="card-body">
+            <h4 class="card-title">Upload a New File</h4>
+            <form asp-action="Upload" method="post" enctype="multipart/form-data">
+                <div class="mb-3">
+                    <label for="file" class="form-label">Choose a file to upload:</label>
+                    <input type="file" name="file" class="form-control" />
+                </div>
+                <button type="submit" class="btn btn-success">
+                    <i class="fas fa-upload"></i> Upload
+                </button>
+            </form>
+        </div>
     </div>
-}
 
-<!-- Upload form -->
-<form asp-action="Upload" method="post" enctype="multipart/form-data">
-    <div class="form-group">
-        <label for="file">Choose a file to upload:</label>
-        <input type="file" name="file" class="form-control" />
-        <button type="submit" class="btn btn-primary mt-2">Upload</button>
-    </div>
-</form>
-
-<!-- Display uploaded files -->
-@if (Model != null && Model.Count > 0)
-{
-    <ul>
-        @foreach (var file in Model)
+    <!-- Display uploaded files -->
+    <div class="mt-5">
+        @if (Model != null && Model.Count > 0)
         {
-            <li>
-                @file.Name -
-                Size: @file.DisplaySize -
-                Last Modified: @file.LastModified?.ToString("g")
-                - <a asp-action="DownloadFile" asp-route-fileName="@file.Name">Download</a>
-            </li>
+            <h4 class="mb-3">Available Files</h4>
+            <ul class="list-group">
+                @foreach (var file in Model)
+                {
+                    <li class="list-group-item d-flex justify-content-between align-items-center">
+                        <div>
+                            <strong>@file.Name</strong> <br />
+                            <small>Size: @file.DisplaySize | Last Modified: @file.LastModified?.ToString("g")</small>
+                        </div>
+                        <a href="@Url.Action("DownloadFile", new { fileName = file.Name })" class="btn btn-outline-primary btn-sm">
+                            <i class="fas fa-download"></i> Download
+                        </a>
+                    </li>
+                }
+            </ul>
         }
-    </ul>
-}
-else
-{
-    <p>No files found or model is null.</p>
-}
+        else
+        {
+            <p class="text-center mt-4">No files found or the model is empty.</p>
+        }
+    </div>
+</div>

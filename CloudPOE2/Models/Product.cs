@@ -16,7 +16,7 @@ namespace CloudPOE2.Models
         public string? Description { get; set; } // Any informatin that might need to be added 
         public string? ImageUrl { get; set; } // where is the image 
         public string? Category { get; set; } // Which does it belong too 
-        public int? Price { get; set; } // literally the price how much simplier 
+        public string? Price { get; set; } // literally the price how much simplier 
  
 
         // ITableEntity implementation
