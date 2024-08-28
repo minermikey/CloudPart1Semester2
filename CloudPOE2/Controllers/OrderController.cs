@@ -6,7 +6,6 @@ namespace CloudPOE2.Controllers
 {
     public class OrderController : Controller
     {
-
         private readonly TableStorageService _tableStorageService;
         private readonly QueueService _queueService;
 
@@ -16,15 +15,12 @@ namespace CloudPOE2.Controllers
             _queueService = queueService;
         }
 
-
-
-        // Action to display all sightings (optional first)
+        // Action to display all orders (optional first)
         public async Task<IActionResult> Index()
         {
             var orders = await _tableStorageService.GetAllOrdersAsync();
             return View(orders);
         }
-
 
         public async Task<IActionResult> Register()
         {
@@ -34,32 +30,30 @@ namespace CloudPOE2.Controllers
             // Check for null or empty lists
             if (customers == null || customers.Count == 0)
             {
-                // Handle the case where no birders are found
-                ModelState.AddModelError("", "No birders found. Please add birders first.");
+                // Handle the case where no customers are found
+                ModelState.AddModelError("", "No customers found. Please add customers first.");
                 return View(); // Or redirect to another action
             }
 
             if (products == null || products.Count == 0)
             {
-                // Handle the case where no birds are found
-                ModelState.AddModelError("", "No birds found. Please add birds first.");
+                // Handle the case where no products are found
+                ModelState.AddModelError("", "No products found. Please add products first.");
                 return View(); // Or redirect to another action
             }
 
-            ViewData["Birders"] = customers;
-            ViewData["Birds"] = products;
+            ViewData["Customers"] = customers;
+            ViewData["Products"] = products;
 
             return View();
         }
 
-
-
-        // Action to handle the form submission and register the sighting
+        // Action to handle the form submission and register the order
         [HttpPost]
         public async Task<IActionResult> Register(Order order)
         {
             if (ModelState.IsValid)
-            {//TableService
+            {
                 order.Order_Date = DateTime.SpecifyKind(order.Order_Date, DateTimeKind.Utc);
                 order.PartitionKey = "OrdersPartition";
                 order.RowKey = Guid.NewGuid().ToString();
@@ -79,7 +73,7 @@ namespace CloudPOE2.Controllers
                 }
             }
 
-            // Reload birders and birds lists if validation fails
+            // Reload customers and products lists if validation fails
             var customers = await _tableStorageService.GetAllCustomersAsync();
             var products = await _tableStorageService.GetAllProductsAsync();
             ViewData["Customers"] = customers;
@@ -87,11 +81,5 @@ namespace CloudPOE2.Controllers
 
             return View(order);
         }
-
-
-
-
-
-
     }
 }
