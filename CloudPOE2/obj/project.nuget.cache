@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O46FC+HGl8uJabnqmDIC3tVS7Z/92Kqqjcor6y3R+OStNSuS3RPxuSdvv1mQDV6I2GsB3HG6DN4WcQX37ESmEg==",
+  "dgSpecHash": "EnafopXjnInDKDhOAv/brc02P9MfAD+a33bHo6bQusDCJWb0L6Hm0Px7pdiNGUfK9GNpgmED/13KsAxgqlWDAg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Michael Singh\\source\\repos\\CloudPOE2\\CloudPOE2\\CloudPOE2.csproj",
+  "projectFilePath": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\CloudPOE2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Michael Singh\\.nuget\\packages\\azure.core\\1.41.0\\azure.core.1.41.0.nupkg.sha512",
     "C:\\Users\\Michael Singh\\.nuget\\packages\\azure.data.tables\\12.9.0\\azure.data.tables.12.9.0.nupkg.sha512",

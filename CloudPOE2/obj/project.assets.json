@@ -1197,11 +1197,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Michael Singh\\source\\repos\\CloudPOE2\\CloudPOE2\\CloudPOE2.csproj",
+      "projectUniqueName": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\CloudPOE2.csproj",
       "projectName": "CloudPOE2",
-      "projectPath": "C:\\Users\\Michael Singh\\source\\repos\\CloudPOE2\\CloudPOE2\\CloudPOE2.csproj",
+      "projectPath": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\CloudPOE2.csproj",
       "packagesPath": "C:\\Users\\Michael Singh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Michael Singh\\source\\repos\\CloudPOE2\\CloudPOE2\\obj\\",
+      "outputPath": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Michael Singh\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -9,65 +9,67 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CloudPOE2
 build_property.RootNamespace = CloudPOE2
-build_property.ProjectDir = /Users/mikey/Downloads/CloudPart1Semester2-main/CloudPOE2/
-build_property.RazorLangVersion = 7.0
+build_property.ProjectDir = C:\Users\Michael Singh\Desktop\GitUp\CloudPart1Semester2\CloudPOE2\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/mikey/Downloads/CloudPart1Semester2-main/CloudPOE2
+build_property.MSBuildProjectDirectory = C:\Users\Michael Singh\Desktop\GitUp\CloudPart1Semester2\CloudPOE2
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/mikey/Downloads/CloudPart1Semester2-main/CloudPOE2/Views/Customers/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXJzL0NyZWF0ZS5jc2h0bWw=
+[C:/Users/Michael Singh/Desktop/GitUp/CloudPart1Semester2/CloudPOE2/Views/Customers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mikey/Downloads/CloudPart1Semester2-main/CloudPOE2/Views/Customers/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXJzL0luZGV4LmNzaHRtbA==
+[C:/Users/Michael Singh/Desktop/GitUp/CloudPart1Semester2/CloudPOE2/Views/Customers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mikey/Downloads/CloudPart1Semester2-main/CloudPOE2/Views/Files/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmlsZXMvSW5kZXguY3NodG1s
+[C:/Users/Michael Singh/Desktop/GitUp/CloudPart1Semester2/CloudPOE2/Views/Files/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mikey/Downloads/CloudPart1Semester2-main/CloudPOE2/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+[C:/Users/Michael Singh/Desktop/GitUp/CloudPart1Semester2/CloudPOE2/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mikey/Downloads/CloudPart1Semester2-main/CloudPOE2/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+[C:/Users/Michael Singh/Desktop/GitUp/CloudPart1Semester2/CloudPOE2/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mikey/Downloads/CloudPart1Semester2-main/CloudPOE2/Views/Order/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3JkZXIvSW5kZXguY3NodG1s
+[C:/Users/Michael Singh/Desktop/GitUp/CloudPart1Semester2/CloudPOE2/Views/Order/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mikey/Downloads/CloudPart1Semester2-main/CloudPOE2/Views/Order/Register.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3JkZXIvUmVnaXN0ZXIuY3NodG1s
+[C:/Users/Michael Singh/Desktop/GitUp/CloudPart1Semester2/CloudPOE2/Views/Order/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcUmVnaXN0ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mikey/Downloads/CloudPart1Semester2-main/CloudPOE2/Views/Products/AddProduct.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdHMvQWRkUHJvZHVjdC5jc2h0bWw=
+[C:/Users/Michael Singh/Desktop/GitUp/CloudPart1Semester2/CloudPOE2/Views/Products/AddProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQWRkUHJvZHVjdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mikey/Downloads/CloudPart1Semester2-main/CloudPOE2/Views/Products/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdHMvSW5kZXguY3NodG1s
+[C:/Users/Michael Singh/Desktop/GitUp/CloudPart1Semester2/CloudPOE2/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mikey/Downloads/CloudPart1Semester2-main/CloudPOE2/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+[C:/Users/Michael Singh/Desktop/GitUp/CloudPart1Semester2/CloudPOE2/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mikey/Downloads/CloudPart1Semester2-main/CloudPOE2/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[C:/Users/Michael Singh/Desktop/GitUp/CloudPart1Semester2/CloudPOE2/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mikey/Downloads/CloudPart1Semester2-main/CloudPOE2/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[C:/Users/Michael Singh/Desktop/GitUp/CloudPart1Semester2/CloudPOE2/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mikey/Downloads/CloudPart1Semester2-main/CloudPOE2/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+[C:/Users/Michael Singh/Desktop/GitUp/CloudPart1Semester2/CloudPOE2/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mikey/Downloads/CloudPart1Semester2-main/CloudPOE2/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-coplv0cmuy
+[C:/Users/Michael Singh/Desktop/GitUp/CloudPart1Semester2/CloudPOE2/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-rcd7xomrbo

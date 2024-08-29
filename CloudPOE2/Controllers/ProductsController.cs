@@ -28,7 +28,7 @@ namespace CloudPOE2.Controllers
         [HttpPost]
         public async Task<IActionResult> AddProduct(Product product, IFormFile file)
         {
-            if (file != null)
+            if (file != null && file.Length > 0)
             {
                 // Upload the file and get the image URL
                 using var stream = file.OpenReadStream();
@@ -44,8 +44,11 @@ namespace CloudPOE2.Controllers
                 await _tableStorageService.AddProductAsync(product);
                 return RedirectToAction("Index");
             }
+
+            // If we reach this point, something went wrong, so return the view with the model
             return View(product);
         }
+
 
         // Handle the request to delete a product
         [HttpPost]

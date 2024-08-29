@@ -1,16 +1,16 @@
 ﻿using CloudPOE2.Models;
 using CloudPOE2.Services;
 using Microsoft.AspNetCore.Mvc;
+using System;
+using System.Threading.Tasks;
 
 namespace CloudPOE2.Controllers
 {
     public class OrderController : Controller
     {
-        // Services for handling storage and queue operations
         private readonly TableStorageService _tableStorageService;
         private readonly QueueService _queueService;
 
-        // Constructor to initialize services
         public OrderController(TableStorageService tableStorageService, QueueService queueService)
         {
             _tableStorageService = tableStorageService;
@@ -30,14 +30,12 @@ namespace CloudPOE2.Controllers
             var customers = await _tableStorageService.GetAllCustomersAsync();
             var products = await _tableStorageService.GetAllProductsAsync();
 
-            // Check if there are no customers
             if (customers == null || customers.Count == 0)
             {
                 ModelState.AddModelError("", "No customers found. Please add customers first.");
                 return View();
             }
 
-            // Check if there are no products
             if (products == null || products.Count == 0)
             {
                 ModelState.AddModelError("", "No products found. Please add products first.");
@@ -57,26 +55,21 @@ namespace CloudPOE2.Controllers
             if (ModelState.IsValid)
             {
                 order.Order_Date = DateTime.SpecifyKind(order.Order_Date, DateTimeKind.Utc);
+
+                // Set PartitionKey and RowKey
                 order.PartitionKey = "OrdersPartition";
-                order.RowKey = Guid.NewGuid().ToString();
+                order.RowKey = Guid.NewGuid().ToString(); // Unique RowKey
+
                 await _tableStorageService.AddOrderAsync(order);
 
                 // Send a message to the queue about the new order
-                string message = $"New Order by Customer {order.Customer_ID} for {order.Product_ID} on {order.Order_Date}";
+                string message = $"New Order by Customer {order.Customer_ID} for Product {order.Product_ID} on {order.Order_Date}";
                 await _queueService.SendMessageAsync(message);
 
                 return RedirectToAction("Index");
             }
-            else
-            {
-                // Log errors if the form is invalid
-                foreach (var error in ModelState)
-                {
-                    Console.WriteLine($"Key: {error.Key}, Errors: {string.Join(", ", error.Value.Errors.Select(e => e.ErrorMessage))}");
-                }
-            }
 
-            // Reload customers and products lists if form submission fails
+            // If ModelState is invalid, reload customers and products lists
             var customers = await _tableStorageService.GetAllCustomersAsync();
             var products = await _tableStorageService.GetAllProductsAsync();
             ViewData["Customers"] = customers;
