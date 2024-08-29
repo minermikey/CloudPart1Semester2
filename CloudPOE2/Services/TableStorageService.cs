@@ -4,13 +4,15 @@ using CloudPOE2.Models;
 
 namespace CloudPOE2.Services
 {
+    // Service for interacting with Azure Table Storage
     public class TableStorageService
     {
-
+        // Table clients for Products, Customers, and Orders tables
         private readonly TableClient _tableClient;
         private readonly TableClient _customerTableClient;
         private readonly TableClient _orderTableClient;
 
+        // Constructor to initialize TableClients for different tables
         public TableStorageService(string connectionString)
         {
             _tableClient = new TableClient(connectionString, "ProductsCloudPOE");
@@ -18,6 +20,7 @@ namespace CloudPOE2.Services
             _orderTableClient = new TableClient(connectionString, "OrdersCloudPOE");
         }
 
+        // Get all products from the Products table
         public async Task<List<Product>> GetAllProductsAsync()
         {
             var products = new List<Product>();
@@ -30,10 +33,10 @@ namespace CloudPOE2.Services
             return products;
         }
 
-
+        // Add a new product to the Products table
         public async Task AddProductAsync(Product product)
         {
-            // Ensure PartitionKey and RowKey are set
+            // Check that PartitionKey and RowKey are set
             if (string.IsNullOrEmpty(product.PartitionKey) || string.IsNullOrEmpty(product.RowKey))
             {
                 throw new ArgumentException("PartitionKey and RowKey must be set.");
@@ -45,18 +48,18 @@ namespace CloudPOE2.Services
             }
             catch (RequestFailedException ex)
             {
-                // Handle exception as necessary, for example log it or rethrow
+                // Handle error
                 throw new InvalidOperationException("Error adding entity to Table Storage", ex);
             }
         }
 
-
+        // Delete a product from the Products table
         public async Task DeleteProductAsync(string partitionKey, string rowKey)
         {
             await _tableClient.DeleteEntityAsync(partitionKey, rowKey);
         }
 
-
+        // Get a specific product from the Products table
         public async Task<Product?> GetProductAsync(string partitionKey, string rowKey)
         {
             try
@@ -71,22 +74,23 @@ namespace CloudPOE2.Services
             }
         }
 
-
+        // Get all customers from the Customers table
         public async Task<List<Customer>> GetAllCustomersAsync()
         {
-            var birders = new List<Customer>();
+            var customers = new List<Customer>();
 
-            await foreach (var birder in _customerTableClient.QueryAsync<Customer>())
+            await foreach (var customer in _customerTableClient.QueryAsync<Customer>())
             {
-                birders.Add(birder);
+                customers.Add(customer);
             }
 
-            return birders;
+            return customers;
         }
 
-
+        // Add a new customer to the Customers table
         public async Task AddCustomerAsync(Customer customer)
         {
+            // Check that PartitionKey and RowKey are set
             if (string.IsNullOrEmpty(customer.PartitionKey) || string.IsNullOrEmpty(customer.RowKey))
             {
                 throw new ArgumentException("PartitionKey and RowKey must be set.");
@@ -98,15 +102,18 @@ namespace CloudPOE2.Services
             }
             catch (RequestFailedException ex)
             {
+                // Handle error
                 throw new InvalidOperationException("Error adding entity to Table Storage", ex);
             }
         }
 
+        // Delete a customer from the Customers table
         public async Task DeleteCustomerAsync(string partitionKey, string rowKey)
         {
             await _customerTableClient.DeleteEntityAsync(partitionKey, rowKey);
         }
 
+        // Get a specific customer from the Customers table
         public async Task<Customer?> GetCustomerAsync(string partitionKey, string rowKey)
         {
             try
@@ -116,14 +123,15 @@ namespace CloudPOE2.Services
             }
             catch (RequestFailedException ex) when (ex.Status == 404)
             {
+                // Handle not found
                 return null;
             }
         }
 
-
-
+        // Add a new order to the Orders table
         public async Task AddOrderAsync(Order order)
         {
+            // Check that PartitionKey and RowKey are set
             if (string.IsNullOrEmpty(order.PartitionKey) || string.IsNullOrEmpty(order.RowKey))
             {
                 throw new ArgumentException("PartitionKey and RowKey must be set.");
@@ -135,10 +143,12 @@ namespace CloudPOE2.Services
             }
             catch (RequestFailedException ex)
             {
-                throw new InvalidOperationException("Error adding sighting to Table Storage", ex);
+                // Handle error
+                throw new InvalidOperationException("Error adding order to Table Storage", ex);
             }
         }
 
+        // Get all orders from the Orders table
         public async Task<List<Order>> GetAllOrdersAsync()
         {
             var orders = new List<Order>();
@@ -150,9 +160,5 @@ namespace CloudPOE2.Services
 
             return orders;
         }
-
-
-
     }
-
 }

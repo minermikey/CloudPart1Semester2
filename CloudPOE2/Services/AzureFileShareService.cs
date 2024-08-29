@@ -5,31 +5,35 @@ using CloudPOE2.Models;
 
 namespace CloudPOE2.Services
 {
-
+    // Service for working with Azure File Share
     public class AzureFileShareService
     {
+        // Store the connection string and file share name
         private readonly string _connectionString;
         private readonly string _fileShareName;
 
+        // Constructor to initialize the connection string and file share name
         public AzureFileShareService(string connectionString, string fileShareName)
         {
             _connectionString = connectionString ?? throw new ArgumentNullException(nameof(connectionString));
             _fileShareName = fileShareName ?? throw new ArgumentNullException(nameof(fileShareName));
         }
 
+        // Upload a file to the specified directory in Azure File Share
         public async Task UploadFileAsync(string directoryName, string fileName, Stream fileStream)
         {
             try
             {
+                // Create a client to interact with the file share service
                 var serviceClient = new ShareServiceClient(_connectionString);
                 var shareClient = serviceClient.GetShareClient(_fileShareName);
 
+                // Get or create the directory
                 var directoryClient = shareClient.GetDirectoryClient(directoryName);
                 await directoryClient.CreateIfNotExistsAsync();
 
-
+                // Upload the file
                 var fileClient = directoryClient.GetFileClient(fileName);
-
                 await fileClient.CreateAsync(fileStream.Length);
                 await fileClient.UploadRangeAsync(new HttpRange(0, fileStream.Length), fileStream);
 
@@ -42,16 +46,20 @@ namespace CloudPOE2.Services
             }
         }
 
+        // Download a file from the specified directory in Azure File Share
         public async Task<Stream> DownloadFileAsync(string directoryName, string fileName)
         {
             try
             {
+                // Create a client to interact with the file share service
                 var serviceClient = new ShareServiceClient(_connectionString);
                 var shareClient = serviceClient.GetShareClient(_fileShareName);
 
+                // Get the directory and file
                 var directoryClient = shareClient.GetDirectoryClient(directoryName);
                 var fileClient = directoryClient.GetFileClient(fileName);
 
+                // Download the file
                 var downloadInfo = await fileClient.DownloadAsync();
                 return downloadInfo.Value.Content;
             }
@@ -62,21 +70,25 @@ namespace CloudPOE2.Services
             }
         }
 
+        // List all files in the specified directory
         public async Task<List<FileModel>> ListFilesAsync(string directoryName)
         {
             var fileModels = new List<FileModel>();
 
             try
             {
+                // Create a client to interact with the file share service
                 var serviceClient = new ShareServiceClient(_connectionString);
                 var shareClient = serviceClient.GetShareClient(_fileShareName);
 
+                // Get the directory and list its contents
                 var directoryClient = shareClient.GetDirectoryClient(directoryName);
 
                 await foreach (ShareFileItem item in directoryClient.GetFilesAndDirectoriesAsync())
                 {
                     if (!item.IsDirectory)
                     {
+                        // Get file properties and add to the list
                         var fileClient = directoryClient.GetFileClient(item.Name);
                         var properties = await fileClient.GetPropertiesAsync();
 
