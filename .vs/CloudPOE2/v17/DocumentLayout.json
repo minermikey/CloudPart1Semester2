@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|c:\\users\\michael singh\\desktop\\gitup\\cloudpart1semester2\\cloudpoe2\\cloudpoe2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|solutionrelative:cloudpoe2\\cloudpoe2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|c:\\users\\michael singh\\desktop\\gitup\\cloudpart1semester2\\cloudpoe2\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|solutionrelative:cloudpoe2\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -99,6 +103,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CloudPOE2",
+              "DocumentMoniker": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\CloudPOE2.csproj",
+              "RelativeDocumentMoniker": "CloudPOE2\\CloudPOE2.csproj",
+              "ToolTip": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\CloudPOE2.csproj",
+              "RelativeToolTip": "CloudPOE2\\CloudPOE2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-29T22:30:56.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\Views\\Customers\\Index.cshtml",
               "RelativeDocumentMoniker": "CloudPOE2\\Views\\Customers\\Index.cshtml",
@@ -111,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\Views\\Customers\\Create.cshtml",
               "RelativeDocumentMoniker": "CloudPOE2\\Views\\Customers\\Create.cshtml",
@@ -119,12 +135,11 @@
               "RelativeToolTip": "CloudPOE2\\Views\\Customers\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-29T22:03:58.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-29T22:03:58.284Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CustomersController.cs",
               "DocumentMoniker": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\Controllers\\CustomersController.cs",
               "RelativeDocumentMoniker": "CloudPOE2\\Controllers\\CustomersController.cs",
@@ -132,12 +147,11 @@
               "RelativeToolTip": "CloudPOE2\\Controllers\\CustomersController.cs",
               "ViewState": "AQIAABwAAAAAAAAAAAAIwEUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T22:03:47.487Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-29T22:03:47.487Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "CloudPOE2\\Models\\Customer.cs",
@@ -145,12 +159,11 @@
               "RelativeToolTip": "CloudPOE2\\Models\\Customer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T22:03:00.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-29T22:03:00.756Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\Views\\Order\\Register.cshtml",
               "RelativeDocumentMoniker": "CloudPOE2\\Views\\Order\\Register.cshtml",
@@ -158,12 +171,11 @@
               "RelativeToolTip": "CloudPOE2\\Views\\Order\\Register.cshtml",
               "ViewState": "AQIAABgAAAAAAAAAAAAUwEAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-29T21:38:14.865Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-29T21:38:14.865Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\Views\\Order\\Index.cshtml",
               "RelativeDocumentMoniker": "CloudPOE2\\Views\\Order\\Index.cshtml",
@@ -171,12 +183,11 @@
               "RelativeToolTip": "CloudPOE2\\Views\\Order\\Index.cshtml",
               "ViewState": "AQIAAAUAAAAAAAAAAAAUwC0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-29T21:38:13.031Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-29T21:38:13.031Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "OrderController.cs",
               "DocumentMoniker": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "CloudPOE2\\Controllers\\OrderController.cs",
@@ -184,12 +195,11 @@
               "RelativeToolTip": "CloudPOE2\\Controllers\\OrderController.cs",
               "ViewState": "AQIAACkAAAAAAAAAAAAcwFEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T21:34:47.005Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-29T21:34:47.005Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\Models\\Order.cs",
               "RelativeDocumentMoniker": "CloudPOE2\\Models\\Order.cs",
@@ -197,12 +207,11 @@
               "RelativeToolTip": "CloudPOE2\\Models\\Order.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T21:34:43.935Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-29T21:34:43.935Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "CloudPOE2\\Views\\Shared\\_Layout.cshtml",
@@ -210,12 +219,11 @@
               "RelativeToolTip": "CloudPOE2\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-29T21:12:36.805Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-29T21:12:36.805Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "AddProduct.cshtml",
               "DocumentMoniker": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\Views\\Products\\AddProduct.cshtml",
               "RelativeDocumentMoniker": "CloudPOE2\\Views\\Products\\AddProduct.cshtml",
@@ -223,12 +231,11 @@
               "RelativeToolTip": "CloudPOE2\\Views\\Products\\AddProduct.cshtml",
               "ViewState": "AQIAABYAAAAAAAAAAAAUwCkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-29T21:04:37.066Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-29T21:04:37.066Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\Models\\Product.cs",
               "RelativeDocumentMoniker": "CloudPOE2\\Models\\Product.cs",
@@ -236,12 +243,11 @@
               "RelativeToolTip": "CloudPOE2\\Models\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T21:04:11.916Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-29T21:04:11.916Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "CloudPOE2\\Controllers\\ProductsController.cs",
@@ -249,12 +255,11 @@
               "RelativeToolTip": "CloudPOE2\\Controllers\\ProductsController.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAA5wDIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T21:02:14.538Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-29T21:02:14.538Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\appsettings.json",
               "RelativeDocumentMoniker": "CloudPOE2\\appsettings.json",
@@ -262,12 +267,11 @@
               "RelativeToolTip": "CloudPOE2\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-29T20:53:33.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-29T20:53:33.037Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\Program.cs",
               "RelativeDocumentMoniker": "CloudPOE2\\Program.cs",
@@ -275,12 +279,11 @@
               "RelativeToolTip": "CloudPOE2\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T20:53:07.297Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-29T20:53:07.297Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "FilesController.cs",
               "DocumentMoniker": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\Controllers\\FilesController.cs",
               "RelativeDocumentMoniker": "CloudPOE2\\Controllers\\FilesController.cs",
@@ -288,8 +291,7 @@
               "RelativeToolTip": "CloudPOE2\\Controllers\\FilesController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T20:52:02.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-29T20:52:02.171Z"
             }
           ]
         }
