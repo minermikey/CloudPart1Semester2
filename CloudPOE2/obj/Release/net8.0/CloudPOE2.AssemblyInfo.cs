@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CloudPOE2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+160302fea836fb75de4bab3c410f6da71ca5e036")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b2ee2712fd1cdf0159a1f89ec512e34efadbf82")]
 [assembly: System.Reflection.AssemblyProductAttribute("CloudPOE2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CloudPOE2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
