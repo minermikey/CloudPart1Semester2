@@ -1,11 +1,7 @@
 ﻿using CloudPOE2.Models;
 using CloudPOE2.Services;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Http; // Required for session management
-using Microsoft.Extensions.Configuration; // Required for IConfiguration
-using System;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace CloudPOE2.Controllers
 {
@@ -69,27 +65,40 @@ namespace CloudPOE2.Controllers
         {
             if (ModelState.IsValid)
             {
-                // Retrieve the user by username
+                // Retrieve the user by email
                 User user = await _repository.GetUserAsync(model.Username);
+                // && user.Password == HashPassword(model.Password, user.Salt)
 
-                if (user != null && user.Password == HashPassword(model.Password, user.Salt))
+
+                // works 
+                // User != null &&
+                //  == HashPassword(model.Password, user.Salt)
+                if (user.Password.Equals(HashPassword(model.Password, user.Salt)))
                 {
-                    // Store user details in session
-                    HttpContext.Session.SetString("Username", user.PartitionKey);
-                    HttpContext.Session.SetString("Email", user.Email);
-                    HttpContext.Session.SetString("FirstName", user.FirstName);
-                    HttpContext.Session.SetString("LastName", user.LastName);
+                    // Store user details in session or handle RememberMe functionality
+                    //HttpContext.Session.SetString("Username", user.Username ?? user.PartitionKey);
+                    //HttpContext.Session.SetString("Email", user.Email);
+                    //HttpContext.Session.SetString("FirstName", user.FirstName);
+                    //HttpContext.Session.SetString("LastName", user.LastName);
+
 
                     // Redirect to dashboard after successful login
-                    return RedirectToAction("Dashboard", "Home");
+                     return RedirectToAction("Index","Home");
+                }
+                else 
+                {
+
+                    await Console.Out.WriteLineAsync("Did not read");
+
                 }
 
                 // Display error message if login fails
-                ModelState.AddModelError("", "Invalid username or password");
+                ModelState.AddModelError("", "Invalid email or password");
             }
 
             return View(model);
         }
+
 
         private string HashPassword(string password, string salt)
         {

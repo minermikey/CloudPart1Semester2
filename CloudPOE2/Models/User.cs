@@ -9,5 +9,6 @@ namespace CloudPOE2.Models
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public string Salt { get; set; } // Add this property to store the salt
+        public string? Username { get; set; }
     }
 }

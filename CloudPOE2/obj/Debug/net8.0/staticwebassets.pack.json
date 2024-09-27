@@ -5,6 +5,14 @@
       "PackagePath": "staticwebassets\\CloudPOE2.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\wwwroot\\Pictures\\ABD Retailers Logo.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\ABD Retailers Logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\wwwroot\\Pictures\\giphy.gif",
+      "PackagePath": "staticwebassets\\Pictures\\giphy.gif"
+    },
+    {
       "Id": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },

@@ -45,6 +45,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Az.Functions.MetadataToJson": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
             "Azure.Data.Tables": {
               "target": "Package",
               "version": "[12.9.0, )"
@@ -61,9 +65,17 @@
               "target": "Package",
               "version": "[12.19.1, )"
             },
+            "Microsoft.ApplicationInsights.WorkerService": {
+              "target": "Package",
+              "version": "[2.22.0, )"
+            },
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
               "version": "[8.0.8, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
             },
             "Microsoft.Azure.Cosmos": {
               "target": "Package",

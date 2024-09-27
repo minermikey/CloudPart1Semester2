@@ -13,6 +13,7 @@ namespace CloudPOE2.Services
 
         public UserRepository(string connectionString, string tableName)
         {
+            // gets the tables 
             CloudStorageAccount storageAccount = CloudStorageAccount.Parse(connectionString);
             CloudTableClient tableClient = storageAccount.CreateCloudTableClient();
             _table = tableClient.GetTableReference("Users");
@@ -33,13 +34,14 @@ namespace CloudPOE2.Services
             await _table.ExecuteAsync(insertOperation);
         }
 
-        public async Task<User> GetUserAsync(string username)
+        public async Task<User> GetUserAsync( string email)
         {
             // Create a table query to fetch user by PartitionKey
-            TableOperation retrieveOperation = TableOperation.Retrieve<User>(username, username);
+            TableOperation retrieveOperation = TableOperation.Retrieve<User>(email, email);
             TableResult result = await _table.ExecuteAsync(retrieveOperation);
 
-            return result.Result as User;
+            return result.Result as User ;
+            
         }
 
         private string HashPassword(string password)

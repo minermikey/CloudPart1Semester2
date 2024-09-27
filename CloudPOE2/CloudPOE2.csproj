@@ -9,11 +9,14 @@
   <PropertyGroup Condition=" '$(RunConfiguration)' == 'https' " />
   <PropertyGroup Condition=" '$(RunConfiguration)' == 'http' " />
   <ItemGroup>
+    <PackageReference Include="Az.Functions.MetadataToJson" Version="1.0.1" />
     <PackageReference Include="Azure.Data.Tables" Version="12.9.0" />
     <PackageReference Include="Azure.Storage.Blobs" Version="12.21.2" />
     <PackageReference Include="Azure.Storage.Files.Shares" Version="12.19.1" />
     <PackageReference Include="Azure.Storage.Queues" Version="12.19.1" />
+    <PackageReference Include="Microsoft.ApplicationInsights.WorkerService" Version="2.22.0" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="8.0.8" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Abstractions" Version="2.2.0" />
     <PackageReference Include="Microsoft.Azure.Cosmos" Version="3.42.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.8" />
     <PackageReference Include="System.Security.Cryptography.Cng" Version="5.0.0" />

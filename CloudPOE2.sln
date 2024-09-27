@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34714.143
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudPOE2", "CloudPOE2\CloudPOE2.csproj", "{45389CAE-0018-4D17-89D1-5471E4BDE5FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CloudPOE2", "CloudPOE2\CloudPOE2.csproj", "{45389CAE-0018-4D17-89D1-5471E4BDE5FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateTest", "CreateTest\CreateTest.csproj", "{A4C09E7D-C9E1-4858-A396-730B0AA82EA2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{45389CAE-0018-4D17-89D1-5471E4BDE5FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45389CAE-0018-4D17-89D1-5471E4BDE5FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45389CAE-0018-4D17-89D1-5471E4BDE5FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4C09E7D-C9E1-4858-A396-730B0AA82EA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4C09E7D-C9E1-4858-A396-730B0AA82EA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4C09E7D-C9E1-4858-A396-730B0AA82EA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4C09E7D-C9E1-4858-A396-730B0AA82EA2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

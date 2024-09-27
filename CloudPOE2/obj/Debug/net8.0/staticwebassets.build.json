@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "6drtn4fv+imrZUzwDJytSyq9DV8qlkRIc8iKbZDwe+w=",
+  "Hash": "RO9eGP5HKtGJi7COeyIvCMPb3pjOtBPl7QfDxCVcWJ4=",
   "Source": "CloudPOE2",
   "BasePath": "_content/CloudPOE2",
   "Mode": "Default",
@@ -2352,6 +2352,44 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\wwwroot\\Pictures\\ABD Retailers Logo.jpg",
+      "SourceId": "CloudPOE2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\wwwroot\\",
+      "BasePath": "_content/CloudPOE2",
+      "RelativePath": "Pictures/ABD Retailers Logo.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\ABD Retailers Logo.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\wwwroot\\Pictures\\giphy.gif",
+      "SourceId": "CloudPOE2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\wwwroot\\",
+      "BasePath": "_content/CloudPOE2",
+      "RelativePath": "Pictures/giphy.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\giphy.gif"
     }
   ]
 }
