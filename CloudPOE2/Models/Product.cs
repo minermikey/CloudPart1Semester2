@@ -10,7 +10,7 @@ namespace CloudPOE2.Models
     {
 
         // This class is extremely important for ensuring that a products information is correctely saved lets run through it 
-        [JsonProperty(PropertyName = "productsId")] // added this code to test
+        //[JsonProperty(PropertyName = "productsId")] // added this code to test
 
         [Key]
         public int Product_Id { get; set; }  // Ensure this property exists and is populated

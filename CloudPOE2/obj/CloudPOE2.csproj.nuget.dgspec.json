@@ -65,13 +65,13 @@
               "target": "Package",
               "version": "[12.19.1, )"
             },
-            "Microsoft.ApplicationInsights.WorkerService": {
+            "Microsoft.ApplicationInsights": {
               "target": "Package",
               "version": "[2.22.0, )"
             },
-            "Microsoft.AspNetCore.Identity.UI": {
+            "Microsoft.ApplicationInsights.WorkerService": {
               "target": "Package",
-              "version": "[8.0.8, )"
+              "version": "[2.22.0, )"
             },
             "Microsoft.AspNetCore.Mvc.Abstractions": {
               "target": "Package",
@@ -81,9 +81,25 @@
               "target": "Package",
               "version": "[3.42.0, )"
             },
+            "Microsoft.Azure.Functions.Worker": {
+              "target": "Package",
+              "version": "[1.23.0, )"
+            },
+            "Microsoft.Azure.Functions.Worker.Extensions.Http": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "Microsoft.Azure.Functions.Worker.Sdk": {
+              "target": "Package",
+              "version": "[1.18.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.8, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             },
             "System.Security.Cryptography.Cng": {
               "target": "Package",

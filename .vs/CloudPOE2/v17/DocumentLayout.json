@@ -11,16 +11,58 @@
       "RelativeMoniker": "D:0:0:{A4C09E7D-C9E1-4858-A396-730B0AA82EA2}|CreateTest\\CreateTest.csproj|solutionrelative:createtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4C09E7D-C9E1-4858-A396-730B0AA82EA2}|CreateTest\\CreateTest.csproj|c:\\users\\michael singh\\desktop\\gitup\\cloudpart1semester2\\createtest\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A4C09E7D-C9E1-4858-A396-730B0AA82EA2}|CreateTest\\CreateTest.csproj|solutionrelative:createtest\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|c:\\users\\michael singh\\desktop\\gitup\\cloudpart1semester2\\cloudpoe2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|solutionrelative:cloudpoe2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|c:\\users\\michael singh\\desktop\\gitup\\cloudpart1semester2\\cloudpoe2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|solutionrelative:cloudpoe2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74075D14-333A-46F9-9D38-4EC52F7CEBFF}|BlobServicesAHhhhhh\\BlobServicesAHhhhhh.csproj|c:\\users\\michael singh\\desktop\\gitup\\cloudpart1semester2\\blobservicesahhhhhh\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74075D14-333A-46F9-9D38-4EC52F7CEBFF}|BlobServicesAHhhhhh\\BlobServicesAHhhhhh.csproj|solutionrelative:blobservicesahhhhhh\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Michael Singh\\.nuget\\packages\\az.functions.metadatatojson\\1.0.1\\build\\Az.Functions.MetadataToJson.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74075D14-333A-46F9-9D38-4EC52F7CEBFF}|BlobServicesAHhhhhh\\BlobServicesAHhhhhh.csproj|c:\\users\\michael singh\\desktop\\gitup\\cloudpart1semester2\\blobservicesahhhhhh\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{74075D14-333A-46F9-9D38-4EC52F7CEBFF}|BlobServicesAHhhhhh\\BlobServicesAHhhhhh.csproj|solutionrelative:blobservicesahhhhhh\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.202\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C09E7D-C9E1-4858-A396-730B0AA82EA2}|CreateTest\\CreateTest.csproj|c:\\users\\michael singh\\desktop\\gitup\\cloudpart1semester2\\createtest\\createtest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A4C09E7D-C9E1-4858-A396-730B0AA82EA2}|CreateTest\\CreateTest.csproj|solutionrelative:createtest\\createtest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|c:\\users\\michael singh\\desktop\\gitup\\cloudpart1semester2\\cloudpoe2\\services\\blobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|solutionrelative:cloudpoe2\\services\\blobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|c:\\users\\michael singh\\desktop\\gitup\\cloudpart1semester2\\cloudpoe2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|solutionrelative:cloudpoe2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|c:\\users\\michael singh\\desktop\\gitup\\cloudpart1semester2\\cloudpoe2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|solutionrelative:cloudpoe2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|c:\\users\\michael singh\\desktop\\gitup\\cloudpart1semester2\\cloudpoe2\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|solutionrelative:cloudpoe2\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|c:\\users\\michael singh\\desktop\\gitup\\cloudpart1semester2\\cloudpoe2\\services\\tablestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|solutionrelative:cloudpoe2\\services\\tablestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|c:\\users\\michael singh\\desktop\\gitup\\cloudpart1semester2\\cloudpoe2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|solutionrelative:cloudpoe2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|c:\\users\\michael singh\\desktop\\gitup\\cloudpart1semester2\\cloudpoe2\\services\\azurefileshareservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|solutionrelative:cloudpoe2\\services\\azurefileshareservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C09E7D-C9E1-4858-A396-730B0AA82EA2}|CreateTest\\CreateTest.csproj|c:\\users\\michael singh\\desktop\\gitup\\cloudpart1semester2\\createtest\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4C09E7D-C9E1-4858-A396-730B0AA82EA2}|CreateTest\\CreateTest.csproj|solutionrelative:createtest\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|c:\\users\\michael singh\\desktop\\gitup\\cloudpart1semester2\\cloudpoe2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -29,14 +71,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CreateFunction\\Function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CreateFunction\\Function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|c:\\users\\michael singh\\desktop\\gitup\\cloudpart1semester2\\cloudpoe2\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|solutionrelative:cloudpoe2\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|c:\\users\\michael singh\\desktop\\gitup\\cloudpart1semester2\\cloudpoe2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|solutionrelative:cloudpoe2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|c:\\users\\michael singh\\desktop\\gitup\\cloudpart1semester2\\cloudpoe2\\wwwroot\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -49,10 +83,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|c:\\users\\michael singh\\desktop\\gitup\\cloudpart1semester2\\cloudpoe2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|solutionrelative:cloudpoe2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|c:\\users\\michael singh\\desktop\\gitup\\cloudpart1semester2\\cloudpoe2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|solutionrelative:cloudpoe2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45389CAE-0018-4D17-89D1-5471E4BDE5FA}|CloudPOE2\\CloudPOE2.csproj|c:\\users\\michael singh\\desktop\\gitup\\cloudpart1semester2\\cloudpoe2\\services\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -82,11 +112,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 16,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "CloudPOE2\\Views\\Shared\\_Layout.cshtml",
@@ -124,7 +154,176 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Az.Functions.MetadataToJson.targets",
+              "DocumentMoniker": "C:\\Users\\Michael Singh\\.nuget\\packages\\az.functions.metadatatojson\\1.0.1\\build\\Az.Functions.MetadataToJson.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\az.functions.metadatatojson\\1.0.1\\build\\Az.Functions.MetadataToJson.targets",
+              "ToolTip": "C:\\Users\\Michael Singh\\.nuget\\packages\\az.functions.metadatatojson\\1.0.1\\build\\Az.Functions.MetadataToJson.targets",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\az.functions.metadatatojson\\1.0.1\\build\\Az.Functions.MetadataToJson.targets",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-09-27T14:07:56.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\Program.cs",
+              "RelativeDocumentMoniker": "CloudPOE2\\Program.cs",
+              "ToolTip": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\Program.cs",
+              "RelativeToolTip": "CloudPOE2\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T10:32:32.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\appsettings.json",
+              "RelativeDocumentMoniker": "CloudPOE2\\appsettings.json",
+              "ToolTip": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\appsettings.json",
+              "RelativeToolTip": "CloudPOE2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-24T10:32:34.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CreateTest\\Program.cs",
+              "RelativeDocumentMoniker": "CreateTest\\Program.cs",
+              "ToolTip": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CreateTest\\Program.cs",
+              "RelativeToolTip": "CreateTest\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:43:51.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Function1.cs",
+              "DocumentMoniker": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CreateTest\\Function1.cs",
+              "RelativeDocumentMoniker": "CreateTest\\Function1.cs",
+              "ToolTip": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CreateTest\\Function1.cs",
+              "RelativeToolTip": "CreateTest\\Function1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T13:48:32.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Function1.cs",
+              "DocumentMoniker": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\BlobServicesAHhhhhh\\Function1.cs",
+              "RelativeDocumentMoniker": "BlobServicesAHhhhhh\\Function1.cs",
+              "ToolTip": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\BlobServicesAHhhhhh\\Function1.cs",
+              "RelativeToolTip": "BlobServicesAHhhhhh\\Function1.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAA0AAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T14:11:26.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\BlobServicesAHhhhhh\\local.settings.json",
+              "RelativeDocumentMoniker": "BlobServicesAHhhhhh\\local.settings.json",
+              "ToolTip": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\BlobServicesAHhhhhh\\local.settings.json",
+              "RelativeToolTip": "BlobServicesAHhhhhh\\local.settings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-27T14:13:07.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.202\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.202\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AQIAAPcAAAAAAAAAAAAhwAkBAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-09-27T14:15:07.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "CloudPOE2\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\Models\\Product.cs",
+              "RelativeToolTip": "CloudPOE2\\Models\\Product.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:13:17.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AzureFileShareService.cs",
+              "DocumentMoniker": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\Services\\AzureFileShareService.cs",
+              "RelativeDocumentMoniker": "CloudPOE2\\Services\\AzureFileShareService.cs",
+              "ToolTip": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\Services\\AzureFileShareService.cs",
+              "RelativeToolTip": "CloudPOE2\\Services\\AzureFileShareService.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAIwGsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:59:59.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "CloudPOE2\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "CloudPOE2\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T17:54:48.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BlobService.cs",
+              "DocumentMoniker": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\Services\\BlobService.cs",
+              "RelativeDocumentMoniker": "CloudPOE2\\Services\\BlobService.cs",
+              "ToolTip": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\Services\\BlobService.cs",
+              "RelativeToolTip": "CloudPOE2\\Services\\BlobService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwBQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:26:05.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateTest",
+              "DocumentMoniker": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CreateTest\\CreateTest.csproj",
+              "RelativeDocumentMoniker": "CreateTest\\CreateTest.csproj",
+              "ToolTip": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CreateTest\\CreateTest.csproj",
+              "RelativeToolTip": "CreateTest\\CreateTest.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-27T12:07:55.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "local.settings.json",
               "DocumentMoniker": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CreateTest\\local.settings.json",
               "RelativeDocumentMoniker": "CreateTest\\local.settings.json",
@@ -137,59 +336,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CreateTest\\Program.cs",
-              "RelativeDocumentMoniker": "CreateTest\\Program.cs",
-              "ToolTip": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CreateTest\\Program.cs",
-              "RelativeToolTip": "CreateTest\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "DocumentIndex": 12,
+              "Title": "TableStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\Services\\TableStorageService.cs",
+              "RelativeDocumentMoniker": "CloudPOE2\\Services\\TableStorageService.cs",
+              "ToolTip": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\Services\\TableStorageService.cs",
+              "RelativeToolTip": "CloudPOE2\\Services\\TableStorageService.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowDUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T08:43:51.702Z",
+              "WhenOpened": "2024-09-27T11:28:05.596Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "CloudPOE2\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\Models\\Product.cs",
-              "RelativeToolTip": "CloudPOE2\\Models\\Product.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAqwCAAAAAAAAAA",
+              "DocumentIndex": 13,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "CloudPOE2\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "CloudPOE2\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA6wCQAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T08:13:17.105Z",
+              "WhenOpened": "2024-08-30T12:24:17.946Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Function1.cs",
-              "DocumentMoniker": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CreateTest\\Function1.cs",
-              "RelativeDocumentMoniker": "CreateTest\\Function1.cs",
-              "ToolTip": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CreateTest\\Function1.cs",
-              "RelativeToolTip": "CreateTest\\Function1.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAAwD8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T07:20:14.432Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "CloudPOE2\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "CloudPOE2\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAgwBsAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T17:54:48.872Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 17,
               "Title": "Function1.cs",
               "DocumentMoniker": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CreateFunction\\Function1.cs",
               "RelativeDocumentMoniker": "CreateFunction\\Function1.cs",
@@ -202,7 +375,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
               "Title": "bootstrap.min.css",
               "DocumentMoniker": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\wwwroot\\css\\bootstrap.min.css",
               "RelativeDocumentMoniker": "CloudPOE2\\wwwroot\\css\\bootstrap.min.css",
@@ -215,7 +388,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 19,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "CloudPOE2\\wwwroot\\css\\site.css",
@@ -228,33 +401,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\appsettings.json",
-              "RelativeDocumentMoniker": "CloudPOE2\\appsettings.json",
-              "ToolTip": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\appsettings.json",
-              "RelativeToolTip": "CloudPOE2\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAADOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-24T10:32:34.428Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\Program.cs",
-              "RelativeDocumentMoniker": "CloudPOE2\\Program.cs",
-              "ToolTip": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\Program.cs",
-              "RelativeToolTip": "CloudPOE2\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T10:32:32.455Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 20,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "CloudPOE2\\Views\\Home\\Index.cshtml",
@@ -267,20 +414,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 23,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "CloudPOE2\\Views\\Account\\Login.cshtml",
               "ToolTip": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\Views\\Account\\Login.cshtml",
               "RelativeToolTip": "CloudPOE2\\Views\\Account\\Login.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAIBJwAgAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBZwAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-30T12:44:48.034Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 25,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "CloudPOE2\\Views\\Account\\Register.cshtml",
@@ -293,7 +440,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 22,
               "Title": "LoginModel.cs",
               "DocumentMoniker": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\Models\\LoginModel.cs",
               "RelativeDocumentMoniker": "CloudPOE2\\Models\\LoginModel.cs",
@@ -306,33 +453,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "CloudPOE2\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "CloudPOE2\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAAEAAAAAAAAAAAADwv0sAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T12:24:17.946Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\Services\\UserRepository.cs",
               "RelativeDocumentMoniker": "CloudPOE2\\Services\\UserRepository.cs",
               "ToolTip": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\Services\\UserRepository.cs",
               "RelativeToolTip": "CloudPOE2\\Services\\UserRepository.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAABQwCEAAAA3AAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAqwCEAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-30T12:22:53.668Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 24,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Michael Singh\\Desktop\\GitUp\\CloudPart1Semester2\\CloudPOE2\\Models\\User.cs",
               "RelativeDocumentMoniker": "CloudPOE2\\Models\\User.cs",

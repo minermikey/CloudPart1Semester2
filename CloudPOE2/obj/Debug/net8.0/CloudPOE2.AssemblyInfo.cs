@@ -11,11 +11,10 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("CloudPOE2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4fd63bbc1e5acefbfe04d533e9fc0ad20a6aa7fa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7252c3706b0e8aa81f0347de7f22296a0ebec500")]
 [assembly: System.Reflection.AssemblyProductAttribute("CloudPOE2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CloudPOE2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
